@@ -1,0 +1,1 @@
+SELECT * FROM exams.users;students
